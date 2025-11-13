@@ -5,6 +5,12 @@ sap.ui.define([
 
     return Controller.extend("sqdemo.sonarqubedemo.controller.View1", {
         onInit() {
-        }
+
+            //For testing 
+            ,,;
+
+
+        },
+        
     });
 });
